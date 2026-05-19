@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to Indusind cards related prod APIs"
+  message: "Hey, welcome to Indusind cards related production APIs"
   contactDetails:
     name: Yogesh Tripathi - Product Owner"
     email: "sandra@eazybank.com"
